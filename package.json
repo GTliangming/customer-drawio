@@ -1,0 +1,20 @@
+{
+  "name": "drawio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "dev": "serve -p 8599",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://v_liangming02@icode.baidu.com:8235/baidu/ttsweb/drawio"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "serve": "^14.2.3"
+  }
+}
